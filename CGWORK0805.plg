@@ -1,0 +1,40 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CGWORK0805 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\dell\AppData\Local\Temp\RSPDEB5.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/CGWORK0805.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\³ÌÐò\CGWORK0805\CGWORK0805View.cpp"
+]
+Creating command line "cl.exe @C:\Users\dell\AppData\Local\Temp\RSPDEB5.tmp" 
+Creating temporary file "C:\Users\dell\AppData\Local\Temp\RSPDEC6.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/CGWORK0805.pdb" /debug /machine:I386 /out:"Debug/CGWORK0805.exe" /pdbtype:sept 
+".\Debug\CGWORK0805.obj"
+".\Debug\CGWORK0805Doc.obj"
+".\Debug\CGWORK0805View.obj"
+".\Debug\MainFrm.obj"
+".\Debug\SetColour2Dlg.obj"
+".\Debug\SetColourDlg.obj"
+".\Debug\SetDataDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\CGWORK0805.res"
+]
+Creating command line "link.exe @C:\Users\dell\AppData\Local\Temp\RSPDEC6.tmp"
+<h3>Output Window</h3>
+Compiling...
+CGWORK0805View.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+CGWORK0805.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
